@@ -292,7 +292,7 @@ letter-spacing: 0.02em;
 }
 
 .footer-container {
-    padding-top: 101.5px;
+    padding-top: 100px;
     padding-bottom: 100px;
 }
 
@@ -304,6 +304,8 @@ font-weight: 700;
 line-height: 1.17;
 letter-spacing: 0.03em;
 text-transform: uppercase;
+display: inline-block;
+margin-bottom: 16px;
 }
 
 .footer-logo-span {
@@ -316,5 +318,4 @@ text-transform: uppercase;
     line-height: 1.5;
     letter-spacing: 0.02em;
     width: 264px;
-    margin-top: 17.5px;
 }
