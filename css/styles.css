@@ -270,6 +270,7 @@ margin-bottom: 8px;
     border: 1px solid #E7E9FC;
     text-align: center;
     margin-bottom: 48px;
+    flex-wrap: wrap;
 }
 
 .portfolio-img {
